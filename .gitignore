@@ -1,0 +1,6 @@
+.env
+/utils/__pycache__
+/trials
+/trials/*
+/utils/hashtag_gen.cpython-312.pyc
+agent.log
